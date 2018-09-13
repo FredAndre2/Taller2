@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Taller1</string>
+    <string name="cuadrado">Cuadrado</string>
+    <string name="rectangulo">Rectangulo</string>
+    <string name="areas">Areas</string>
+    <string name="volumenes">Volumenes</string>
+    <string name="esfera">Esfera</string>
+    <string name="cubo">Cubo</string>
+    <string name="listar_operaciones">Listar Operaciones</string>
+    <string name="operaciones">Operaciones realizadas</string>
+    <string name="titulo_area_cuadrado">Area del cuadrado</string>
+    <string name="lado_cuadrado">Valor del lado</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="datos">Datos</string>
+    <string name="resultado">Resultado</string>
+    <string name="titulo_rectangulo">Area del rectangulo</string>
+    <string name="base_rectangulo">Base</string>
+    <string name="altura_recntangulo">Altura</string>
+    <string name="valor_radio_esfera">Valor del radio</string>
+    <string name="volumen_esfera">Volumen de una esfera</string>
+    <string name="descripcion_cubo">Volumen de un cubo</string>
+    <string name="valor_arista_cubo">Valor de la arista</string>
+    <string-array name="opciones_principal">
+        <item>@string/areas</item>
+        <item>@string/volumenes</item>
+        <item>@string/operaciones</item>
+    </string-array>
+    <string-array name="opciones_areas">
+        <item>@string/cuadrado</item>
+        <item>@string/rectangulo</item>
+    </string-array>
+    <string-array name="opciones_volumenes">
+        <item>@string/esfera</item>
+        <item>@string/cubo</item>
+    </string-array>
+</resources>
